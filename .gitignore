@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# 
+#add te cv and json files to the exceptions
+*.csv
+*.json
+
